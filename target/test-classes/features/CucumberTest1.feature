@@ -6,6 +6,7 @@ Feature: Testing the Blog Site
     When user enters data in the search field
     Then data should appear in the search field
     
+    #Commenting below Test Case
   #Scenario Outline: Title of your scenario outline
     #Given I want to write a step with <name>
     #When I check for the <value> in step
